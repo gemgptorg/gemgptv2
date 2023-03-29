@@ -1,5 +1,5 @@
 import bgImg1 from '../images/background/bg-1.jpg';
-import bgImg2 from '../images/background/bggif.gif';
+import bgImg2 from '../images/background/bggif2.gif';
 import img1 from '../images/common/itemslider.png';
 
 const dataSlider = [

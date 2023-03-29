@@ -17,7 +17,7 @@ const dataFaq = [
     },
     {
         id: 4,
-        title: '$GEM',
+        title: '$GGPT',
         content: 'The Gem Token (GEM) is the native token of the platform, used to incentivize users to contribute data and provide liquidity to the platform. The token will be used to pay for access to premium research and analysis, and to reward users for their contributions to the platform. The total supply of GEM tokens will be fixed at 100 million, with a portion reserved for the team and advisors, and the remainder distributed through a token sale.',
     },
     {

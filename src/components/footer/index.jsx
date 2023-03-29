@@ -82,7 +82,7 @@ function Footer(props) {
                 <div className="container">
                     <div className="wrap-fx">
                         <div className="Copyright">
-                            <p>GemGPT 2023- ALL rights reserved</p>
+                            <p>GemGPT Labs 2023- ALL rights reserved</p>
                         </div>
                         <ul className="list">
                             <li>

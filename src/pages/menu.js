@@ -24,11 +24,7 @@ const menus = [
         links: '/faq',
         
     },
-    {
-        id: 6,
-        name: 'Contact',
-        links: '/contact'
-    },
+   
     
 ]
 

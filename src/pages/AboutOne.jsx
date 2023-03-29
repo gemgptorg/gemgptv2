@@ -16,9 +16,7 @@ function AboutOne(props) {
 
             <About data={dataAbout} />
 
-            <Team data={dataTeam} />
-
-            <Partner data={dataPartner} />
+            
 
         </div>
     );

@@ -21,7 +21,7 @@ const dataWork = [
     {
         id: 4,
         numb: '04',
-        title: "TOKENOMICS",
+        title: "$GGPT",
         text : 'GemGPT (GGPT) is the native token of the platform, used to incentivize users to contribute data and provide liquidity to the platform. The token will be used to pay for access to premium research and analysis, and to reward users for their contributions to the platform.'
     },
 ]

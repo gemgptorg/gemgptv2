@@ -12,8 +12,8 @@ function Work(props) {
     const {data} = props;
 
     const [dataBlock] = useState({
-        subtitle: 'Problems and',
-        title: 'OUR SOLUTIONS',
+       
+        title: 'PROBLEMS AND OUR SOLUTIONS',
         desc: 'The cryptocurrency market is highly volatile, and making accurate predictions can be challenging. Traditional research methods may not be sufficient in this rapidly evolving and complex market. Furthermore, the data available is often inconsistent and incomplete, making it difficult to draw meaningful conclusions.'
     })
     return (

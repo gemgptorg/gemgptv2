@@ -4,13 +4,13 @@ const dataRoadmap = [
         time: 'Q1 2023',
         list: [
             {
-                text: 'Created team'
+                text: 'Created Team'
             },
             {
-                text: 'Created algorithm, data services'
+                text: 'Created Algorithm, Data Services'
             },
             {
-                text: 'Web design'
+                text: 'Web Design'
             },
             {
                 text: 'Web & Mobile App Beta'

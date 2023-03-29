@@ -6,8 +6,7 @@ import PageTitle from '../components/pagetitle';
 import About from '../features/about/home-v2';
 import Project from '../features/project/home-v3';
 
-import ModalVideo from 'react-modal-video';
-import 'react-modal-video/scss/modal-video.scss' ;
+
 
 function Community(props) {
 
@@ -41,7 +40,6 @@ function Community(props) {
                         </div>
                     </div>
                 </div>
-                <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="i7EMACWuErA" onClose={() => setOpen(false)} />
             </section>
 
             <About data={dataAbout} />

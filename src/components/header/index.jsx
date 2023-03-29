@@ -6,6 +6,8 @@ import menus from '../../pages/menu';
 import './styles.scss';
 import logo from '../../assets/images/logo/logo.png'
 import Button from '../button';
+import pdf from "../../assets/fake-data/whitepaper.pdf";
+
 
 
 
@@ -65,6 +67,16 @@ const Header = () => {
                                     
                                 ))
                             }
+                            <a href={pdf}>
+                    <button
+                      className="tf-button btn-effect "
+                     style={{marginLeft:"-30px"}}
+                      
+                    >
+                      <span className="boder-fade"></span>
+                      <span className="effect">Whitepaper</span>
+                    </button>
+                  </a>
                             
                         </ul>
                     </nav>

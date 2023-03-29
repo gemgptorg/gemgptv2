@@ -24,9 +24,7 @@ const menus = [
         links: '/faq',
         
     },
-  
    
-    
 ]
 
 export default menus;

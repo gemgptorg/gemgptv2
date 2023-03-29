@@ -48,12 +48,13 @@
     font-weight: $font-w7;
     text-transform: uppercase;
     padding: 9px 32px;
+    
     height: 48px;
     border: none;
     .boder-fade {
         position: absolute;
         transition: all 0.1s;
-        border: 2px solid $bg-2;
+       
         width: 100%;
         height: 100%;
         z-index: -1;
@@ -69,7 +70,7 @@
             height:0;
             position: absolute;
             transition: all 0.2s linear;
-            background: #fff;
+          
         }
     }
     &::before, 
@@ -79,10 +80,10 @@
         height: 2px;
         position: absolute;
         transition: all 0.2s linear;
-        background: #fff;
+     
     }
     &:hover {
-        color: $white;
+        color: $bg-2;
         &::before, 
         &::after{
             width: 100%;

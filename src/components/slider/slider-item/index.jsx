@@ -29,15 +29,7 @@ function SliderItem(props) {
                 <h1 className="title">{item.title}</h1>
                 <p className="sub-title">{item.desc}</p>
                 <div className="wrap-btn">
-                  <a href={pdf}>
-                    <button
-                      className="tf-button btn-effect popup-youtube"
-                      onClick={() => setOpen(true)}
-                    >
-                      <span className="boder-fade"></span>
-                      <span className="effect">Whitepaper</span>
-                    </button>
-                  </a>
+                  
                 </div>
               </div>
             </div>

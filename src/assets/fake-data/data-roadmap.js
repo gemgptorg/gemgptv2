@@ -50,7 +50,7 @@ const dataRoadmap = [
                 text: 'Chatbot (Buterin) Alpha v2'
             },
             {
-                text: 'CEX Listing'
+                text: 'Collabration and Partnerships'
             },
         ],
         positon: 'left'

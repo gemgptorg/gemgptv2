@@ -11,7 +11,7 @@ const dataSlider = [
     },
     {
         id: 2,
-        title: 'Worlds first AI-powered gem token researcher!',
+        title: 'AI-powered gem token researcher!',
         
         bgImg: bgImg2,
         classAction: 'two'

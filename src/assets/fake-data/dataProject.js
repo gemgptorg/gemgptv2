@@ -19,11 +19,7 @@ const dataProject = [
         title: 'CYBOX #01',
         img: img1,
     },
-    {
-        id: 2,
-        title: 'CYBOX #02',
-        img: img2,
-    },
+    
     {
         id: 3,
         title: 'CYBOX #03',

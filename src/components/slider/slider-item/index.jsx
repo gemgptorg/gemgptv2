@@ -3,9 +3,9 @@ import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 import pdf from "../../../assets/fake-data/whitepaper.pdf";
 
-
 // import { Modal } from "react-bootstrap";
 import "./styles.scss";
+import { SocialIcon } from "react-social-icons";
 
 SliderItem.propTypes = {
   item: PropTypes.object,
@@ -29,7 +29,10 @@ function SliderItem(props) {
                 <h1 className="title">{item.title}</h1>
                 <p className="sub-title">{item.desc}</p>
                 <div className="wrap-btn">
-                  
+                  <div className="d-flex text-white justify-content-between align-items-center">
+                    <SocialIcon url="https://twitter.com/gemgptlabs" target="_blank" network="twitter" fgColor="white" />
+                    <div className="mx-2">Follow Us on Twitter</div>
+                  </div>
                 </div>
               </div>
             </div>
